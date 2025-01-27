@@ -18,7 +18,7 @@
           "id": 2,
           "title": "100 JUTA PERTAMA DARI AI",
           "author": "with Anjas Maradita Course",
-          "image": "../../src/assets/images/produk/100juta.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/100juta.png",
           "link": "http://lynk.id/myshoping/NRr6Z5W/checkout"
         }
       ]
@@ -34,14 +34,14 @@
           "id": 3,
           "title": "7500+ VIDEO AFFILIATE PRODUK",
           "author": "untung digital",
-          "image": "../../src/assets/images/produk/untungdigital.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/untungdigital.png",
           "link": "http://lynk.id/myshoping/jB33VMJ/checkout"
         },
         {
           "id": 4,
           "title": "2500++ Video Affiliate Produk Terlaris Siap Pakai",
           "author": " by rziddiq",
-          "image": "../../src/assets/images/produk/afiliatevideoo.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/afiliatevideoo.png",
           "link": "http://lynk.id/myshoping/JL7RApL/checkout"
         }
       ]
@@ -57,14 +57,14 @@
           "id": 5,
           "title": "Ebook Cuan dari rumah, Jualan produk hasil milyaran",
           "author": "Andi Jaya",
-          "image": "../../src/assets/images/produk/Cuandirumah.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/Cuandirumah.png",
           "link": "http://lynk.id/myshoping/RKeeraV/checkout"
         },
         {
           "id": 6,
           "title": "Ebook ProfitWise - Mencari Saham 2025",
           "author": "Budi Setiadi",
-          "image": "../../src/assets/images/produk/profitsaham.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/profitsaham.png",
           "link": "http://lynk.id/myshoping/me1Ql62/checkout"
         }
       ]
@@ -80,14 +80,14 @@
           "id": 7,
           "title": "Pengembangan Diri dan Psikologi Kehidupan",
           "author": "Steven Covey",
-          "image": "../../src/assets/images/produk/psycology.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/psycology.png",
           "link": "http://lynk.id/myshoping/EdX3886/checkout"
         },
         {
           "id": 8,
           "title": "10 Ebook Pengembangan Diri lengkap",
           "author": "Norman Vincent Peale",
-          "image": "../../src/assets/images/produk/sepuluhpengembangandiri.png",
+          "image": "https://raw.githubusercontent.com/idincodingweb/Produk-Digital/refs/heads/main/src/assets/images/produk/sepuluhpengembangandiri.png",
           "link": "http://lynk.id/myshoping/GQzL4qN/checkout"
         }
       ]
