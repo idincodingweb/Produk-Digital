@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Social Media",
+      "icon": "faBook",
+      "description": "Jelajahi bermacam buku cara jadi kretor sukses.",
+      "link": "/categories/1" ,
+      "ebooks": [
+        {
+          "id": 1,
+          "title": "Raih Jutaan Views di Social Media 100% Cuan",
+          "author": "Idin Iskandar",
+          "image": "../../src/assets/images/produk/SUKSES.png",
+          "link": "https://lynk.id/myshoping/l6gAZZ0"
+        },
+        {
+          "id": 2,
+          "title": "100 JUTA PERTAMA DARI AI",
+          "author": "with Anjas Maradita Course",
+          "image": "../../src/assets/images/produk/100juta.png",
+          "link": "http://lynk.id/myshoping/NRr6Z5W/checkout"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Konten Video",
+      "icon": "faCode",
+      "description": "Temukan bermacam template planner kerangka kerja.",
+      "link": "/categories/2",
+      "ebooks": [
+        {
+          "id": 3,
+          "title": "7500+ VIDEO AFFILIATE PRODUK",
+          "author": "untung digital",
+          "image": "../../src/assets/images/produk/untungdigital.png",
+          "link": "http://lynk.id/myshoping/jB33VMJ/checkout"
+        },
+        {
+          "id": 4,
+          "title": "2500++ Video Affiliate Produk Terlaris Siap Pakai",
+          "author": " by rziddiq",
+          "image": "../../src/assets/images/produk/afiliatevideoo.png",
+          "link": "http://lynk.id/myshoping/JL7RApL/checkout"
+        }
+      ]
+    },
+     {
+      "id": 3,
+      "name": "Bisnis",
+      "icon": "faBriefcase",
+      "description": "Tingkatkan skill bisnis Anda dengan ebook pilihan.",
+      "link": "/categories/3",
+      "ebooks": [
+        {
+          "id": 5,
+          "title": "Ebook Cuan dari rumah, Jualan produk hasil milyaran",
+          "author": "Andi Jaya",
+          "image": "../../src/assets/images/produk/Cuandirumah.png",
+          "link": "http://lynk.id/myshoping/RKeeraV/checkout"
+        },
+        {
+          "id": 6,
+          "title": "Ebook ProfitWise - Mencari Saham 2025",
+          "author": "Budi Setiadi",
+          "image": "../../src/assets/images/produk/profitsaham.png",
+          "link": "http://lynk.id/myshoping/me1Ql62/checkout"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pengembangan Diri",
+      "icon": "faBrain",
+      "description": "Optimalkan potensi diri Anda dengan ebook inspiratif.",
+      "link": "/categories/4",
+       "ebooks": [
+        {
+          "id": 7,
+          "title": "Pengembangan Diri dan Psikologi Kehidupan",
+          "author": "Steven Covey",
+          "image": "../../src/assets/images/produk/psycology.png",
+          "link": "http://lynk.id/myshoping/EdX3886/checkout"
+        },
+        {
+          "id": 8,
+          "title": "10 Ebook Pengembangan Diri lengkap",
+          "author": "Norman Vincent Peale",
+          "image": "../../src/assets/images/produk/sepuluhpengembangandiri.png",
+          "link": "http://lynk.id/myshoping/GQzL4qN/checkout"
+        }
+      ]
+    }
+  ]
+}

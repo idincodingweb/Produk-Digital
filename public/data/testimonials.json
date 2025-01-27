@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "quote": "Ebooknya sangat informatif dan membantu saya memahami topik yang saya pelajari.",
+    "name": "Vanita sani",
+    "image": "https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/vanita_sani-20250118-0001.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "Saya sangat suka koleksi ebook di sini, pilihannya banyak dan harganya terjangkau.",
+    "name": "Nurul Ftimah.",
+    "image": "https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/pink_nurulrr-20250118-0002.jpg"
+  },
+  {
+    "id": 3,
+      "quote": "Pelayanan sangat baik dan cepat, ebooknya juga berkualitas tinggi.",
+    "name": "Hida, Spd.",
+    "image": "https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/cewek/hida.z_85-20250118-0001.jpg"
+  }
+]

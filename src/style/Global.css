@@ -1,0 +1,31 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: "Ubuntu", serif;
+  font-weight: 300;
+  font-style: normal;
+  max-width: 1200px;
+}
+
+.notfound-animation {
+    animation: wave 5s linear infinite;
+}
+
+.notfound-text{
+    -webkit-text-stroke: 2px white;
+}
+
+@keyframes wave {
+  0% {
+    transform: translateY(0);
+  }
+    50% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
