@@ -14,37 +14,24 @@ const About = () => {
         <div className="lg:w-1/2 text-center lg:text-left">
           <h2 className="text-4xl font-bold mb-6">Tentang Kami</h2>
           <p className="text-gray-700 mb-6">
-            Selamat datang di DigitalStore, platform terpercaya untuk menemukan
-            berbagai produk digital berkualitas yang dirancang untuk memberdayakan
-            kreativitas dan pertumbuhan bisnis Anda. Kami hadir untuk
-            memudahkan Anda mengakses sumber daya terbaik di dunia digital.
+            Selamat datang di <span className="font-semibold text-purple-700">DigitalStore</span> — tempat di mana file digital lebih berharga daripada mantan 🤭.  
+            Di sini kamu bisa nemuin segala jenis produk digital dari template kece sampai panduan sakti yang bisa bikin kamu auto jago.
           </p>
           <p className="text-gray-700 mb-6">
-            DigitalStore lahir dari sebuah keyakinan bahwa pengetahuan dan alat
-            digital yang hebat harus mudah diakses oleh semua orang. Kami
-            berkomitmen untuk menyediakan berbagai pilihan produk digital, mulai
-            dari template yang efisien, panduan praktis, hingga kursus
-            interaktif yang akan membantu Anda mencapai tujuan digital Anda.
+            Kami percaya hidup udah cukup berat, jadi cari produk digital jangan dibikin susah. Makanya, semua isi toko ini udah kami kurasi dengan penuh cinta... dan sedikit kopi ☕.
           </p>
           <p className="text-gray-700 mb-6">
-            Kami mengutamakan kualitas, keterjangkauan, dan kepuasan pelanggan.
-            Kami bekerja keras untuk memastikan setiap produk digital di platform
-            kami memenuhi standar tertinggi, serta memberikan pengalaman belanja
-            yang aman dan menyenangkan.
+            Mau jadi content creator, editor, dropshipper, anak skena AI, atau sekadar nyari preset buat ngedit biar kelihatan liburan padahal di kos — DigitalStore siap nemenin perjalanan digital kamu.
           </p>
           <p className="text-gray-700 mb-6">
-            Di DigitalStore, Anda akan menemukan beragam produk yang akan
-            memudahkan Anda dalam berkarya, belajar, dan mengembangkan bisnis
-            Anda. Kami hadir untuk mendukung setiap langkah Anda dalam perjalanan
-            digital Anda.
+            Semua produk di sini legal, gak tipu-tipu, dan udah dicoba langsung. Kalau berhasil bikin kamu makin produktif, kami senang. Kalau gak, coba beli dua kali... siapa tau efeknya dobel 🤣
           </p>
           <p className="text-gray-700 mb-6">
-            Terima kasih telah memilih DigitalStore sebagai mitra digital Anda.
-            Mari bersama kita menjelajahi dunia produk digital dan mencapai
-            kesuksesan bersama!
+            Terima kasih udah mampir. Kalau kamu puas, share ke teman. Kalau kamu kecewa, share juga... siapa tau dia suka.  
+            Pokoknya jangan sayangin mantan — sayangin disk space kamu.
           </p>
           <p className="text-gray-700 mt-8 font-medium">
-           Website ini dikembangkan oleh <span className="font-bold text-purple-700">Idin Iskandar</span>.
+            Website ini dikembangkan oleh <span className="font-bold text-purple-700">Idin Iskandar</span> — developer rumahan yang skill-nya lebih tajam dari cutter isi ulang.
           </p>
         </div>
         <div className="lg:w-1/2 flex justify-center">
@@ -54,7 +41,7 @@ const About = () => {
             className="rounded-xl shadow-xl w-80"
           />
         </div>
-       <Lokasi />
+        <Lokasi />
       </div>
     </motion.section>
   );
